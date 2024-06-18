@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login_page2</string>
+
+    <string name="PortraitText" >Portrait</string>
+    <string name="LandscapeText" >Landscape</string>
+
+</resources>
